@@ -50,7 +50,7 @@ If you would like to contribute to the project, please review the [contribution 
 [LICENSE](/LICENSE)
 
 ## AUTHORS 📜
-[AUTHORS](/AUTHORS)
+[AUTHORS](/AUTHORS.txt)
 
 ## Made with care ❤️
 We appreciate your choice of our software!
