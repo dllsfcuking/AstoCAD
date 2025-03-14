@@ -28,6 +28,7 @@ AstoCAD is a versatile computer-aided design (CAD) software tailored for profess
 
 ## Usage Examples 📊
 
+![image](https://github.com/user-attachments/assets/525e84f2-621f-4197-847f-a8c47b50abe8)
 
 # Documentation 📚
 Complete documentation is available
